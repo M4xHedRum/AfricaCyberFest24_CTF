@@ -1,7 +1,7 @@
 # AfricaCyberFest24_CTF
-This repo contains the writeup for the 2024 AfricaCyberFest competition.
+This repo contains the writeup for the 2024 [AfricaCyberFest](https://twitter.com/AfricaCyberFest) competition.
 
-The CTF challenges were created by twitter.com/Kuro_Lytes and twitter.com/Nerdy_Genii
+The CTF challenges were created by [Kuro_Lytes](https://twitter.com/Kuro_Lytes) and [Nerdy_Genii](https://twitter.com/Nerdy_Genii)
 
 The writeups were compiled by participants of the CTF (primarily from the first solver of each challenge) and the unsolved challenges are added by the hosts
 
