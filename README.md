@@ -16,19 +16,20 @@ Update below list with appended writeups and user profile links. See example bel
 1.
 
 ### Web
-1.
+1. [Troll]() by [@h4cky0u](https://x.com/0xMarkUche)
 
 ### Digital Forensics
-1. [Whispers in the Wires]() by [@h4cky0u]()
+1. [Whispers in the Wires]() by [@h4cky0u](https://x.com/0xMarkUche)
 
 ### Blockchain 
-1.
+1. 
 
 ### RE
-1.
+1. [Sore]() by [@h4cky0u](https://x.com/0xMarkUche)
+2. [Finding Nulock]() by [@h4cky0u](https://x.com/0xMarkUche)
 
 ### Cryptography
-1.
+1. [ByteOps]() by [@h4cky0u](https://x.com/0xMarkUche)
 
 ### Misc
-1.
+1. [Hip Hip Hip]() by [@h4cky0u](https://x.com/0xMarkUche)
