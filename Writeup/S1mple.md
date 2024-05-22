@@ -1,6 +1,4 @@
-# Cryptography
-
-## S1mple
+# S1mple
 
 ![image](https://github.com/BlackAnon22/BlackAnon22.github.io/assets/67879936/abe6d93b-5683-46d2-80ac-2ee26c947ba7)
 
