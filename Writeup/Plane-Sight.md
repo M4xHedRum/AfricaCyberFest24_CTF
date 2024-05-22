@@ -1,4 +1,5 @@
-## Plane Sight
+## Steganography
+### Plane Sight
 
 The Plane Sight challenge was initially one challenge. However, when it became apparent that we couldn't solve it, they made it into two challenges.
 
@@ -39,15 +40,16 @@ I then posted this on ChatGPT and received an HTML encoded string.
 Then, I followed the same process as I did in the cryptography challenge. I posted the encoded string on the automatic Cyrillic decoder at mashke.org.
 ![image](images/mashke.png)
 
-Then I got some Bulgarian text, 
+Then, when I converted the page, it automatically translated from Bulgarian/Russian to English.
 ![image](images/mashke2.png)
 
-which I used Google Translate to detect and translate from Russian to English.
+But I still had to be sure, so I used Google to detect it.
 ![image](images/mashke3.png)
 
-I tried using this as the flag, but it didn't work. I left it for a while, thinking a bitwise operation like "17>>5" might be involved. Later, I got a hint/idea to use other Cyrillic encoders. Then I used https://convertcyrillic.com/#/.
+I confirmed that it was indeed Serbian. I translated it to English.
+![image](images/masske.png)
 
-![image](images/mashke4.png)
+I tried using this as the flag, but it didn't work. I left it for a while, thinking a bitwise operation like "17>>5" might be involved. Later, I got a hint/idea to use other Cyrillic encoders. Then I used https://convertcyrillic.com/#/.
 
 
 I did lots of trial and error here, but when I used KOI-8 to Phonetic (Modified Library of Congress Transliteration) [Russki\i ^iazyk], I got another string. I tried this string, and I was surprised to see it was the flag.
@@ -55,5 +57,5 @@ I did lots of trial and error here, but when I used KOI-8 to Phonetic (Modified 
 ![image](images/mashke4.png)
 
 ```
-Flag: ACTF{17'5_а11_1н_Тh3_м3Т4д473}
+Flag: ACTF{17'5_a11_1n_Th3_m3T4d473}
 ```
