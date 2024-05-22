@@ -28,7 +28,7 @@ Update below list with appended writeups and user profile links. See example bel
 1.
 
 ### Cryptography
-1.
+1. [S1mple](https://github.com/BlackAnon22/AfricaCyberFest24_CTF/blob/main/Writeup/S1mple.md) by [BlackAnon](https://x.com/BlackAnon22)
 
 ### Misc
 1.
