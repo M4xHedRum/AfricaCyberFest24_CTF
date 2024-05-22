@@ -18,8 +18,8 @@ Update below list with appended writeups and user profile links. See example bel
 ### Web
 1.
 
-### Digital FForensics
-1.
+### Digital Forensics
+1. [Whispers in the Wires]() by [@h4cky0u]()
 
 ### Blockchain 
 1.
