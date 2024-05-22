@@ -24,8 +24,8 @@ I then copied the cipher to the website mashke.org, which provides an automatic 
 ![image](images/mask.png)
 
 
-Boom! I got the flag.
-![image](images/mashke5.png)
+I converted it Boom! I got the flag.
+![image](images/mashke6.png)
 ```
 Flag: ACTF{1ts_ju57_a5_5impl3_4s_1t_100k5!!!}
 ```
