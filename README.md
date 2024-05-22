@@ -13,7 +13,8 @@ Update below list with appended writeups and user profile links. See example bel
 2.
 
 ### Steganography 
-1.
+1. [Plane Sight](https://github.com/LanZeroth/AfricaCyberFest2024-/blob/main/Write-up.md) by [@abd_illahi] (https://twitter.com/abd_illahi]
+2. [Plane Sight2](https://github.com/LanZeroth/AfricaCyberFest2024-/blob/main/Write-up.md) by [@abd_illahi](https://twitter.com/abd_illahi]  
 
 ### Web
 1.
@@ -28,7 +29,7 @@ Update below list with appended writeups and user profile links. See example bel
 1.
 
 ### Cryptography
-1.
+1. [S1mple](https://github.com/LanZeroth/AfricaCyberFest2024-/blob/main/Write-up.md) by [@abd_illahi] (https://twitter.com/abd_illahi]
 
 ### Misc
 1.
