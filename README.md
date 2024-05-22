@@ -14,7 +14,7 @@ Update below list with appended writeups and user profile links. See example bel
 3. [Do you read 2](https://github.com/BlackAnon22/AfricaCyberFest24_CTF/blob/main/Writeup/do_you_read_2.md) by [BlackAnon](https://x.com/BlackAnon22)
 
 ### Steganography 
-1.
+1. [Plane Sight](https://github.com/BlackAnon22/AfricaCyberFest24_CTF/blob/main/Writeup/plane_sight.md) by [BlackAnon](https://x.com/BlackAnon22)
 
 ### Web
 1. [Mystiue](https://github.com/BlackAnon22/AfricaCyberFest24_CTF/blob/main/Writeup/mystique.md) by [BlackAnon](https://x.com/BlackAnon22)
@@ -33,4 +33,4 @@ Update below list with appended writeups and user profile links. See example bel
 
 ### Misc
 1. [Nulock's nemesis 1](https://github.com/BlackAnon22/AfricaCyberFest24_CTF/blob/main/Writeup/nulock.md) by [BlackAnon](https://x.com/BlackAnon22)
-2. [fun???](https://github.com/BlackAnon22/AfricaCyberFest24_CTF/blob/main/Writeup/fun%3F%3F%3F.md) by [BlackAnon](https://x.com/BlackAnon22)
+2. [Fun???](https://github.com/BlackAnon22/AfricaCyberFest24_CTF/blob/main/Writeup/fun%3F%3F%3F.md) by [BlackAnon](https://x.com/BlackAnon22)
