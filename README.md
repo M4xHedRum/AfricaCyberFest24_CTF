@@ -15,6 +15,7 @@ Update below list with appended writeups and user profile links. See example bel
 
 ### Steganography 
 1. [Plane Sight](https://github.com/BlackAnon22/AfricaCyberFest24_CTF/blob/main/Writeup/plane_sight.md) by [BlackAnon](https://x.com/BlackAnon22)
+2. [Plane Sight 2](https://github.com/BlackAnon22/AfricaCyberFest24_CTF/blob/main/Writeup/plane_sight_2.md) by [BlackAnon](https://x.com/BlackAnon22)
 
 ### Web
 1. [Mystiue](https://github.com/BlackAnon22/AfricaCyberFest24_CTF/blob/main/Writeup/mystique.md) by [BlackAnon](https://x.com/BlackAnon22)
