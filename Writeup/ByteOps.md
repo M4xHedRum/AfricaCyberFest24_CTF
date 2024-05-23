@@ -100,7 +100,7 @@ DUP1 - clones the last value on the stack
 REVERT - Byzantium hardfork, EIP-140: reverts with return data
 ```
 
-Harmed with this instruction let's translate what it does
+Armed with this instruction let's translate what it does
 
 - First it pushes a 2 byte value onto the stack then pushes 0 to the stack
 
