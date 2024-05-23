@@ -16,19 +16,20 @@ Update below list with appended writeups and user profile links. See example bel
 1.
 
 ### Web
-1.
+1. [Troll](https://github.com/h4ckyou/AfricaCyberFest24_CTF/blob/main/Writeup/Troll.md) by [@h4cky0u](https://x.com/0xMarkUche)
 
-### Digital FForensics
-1.
+### Digital Forensics
+1. [Whispers in the Wires](https://github.com/h4ckyou/AfricaCyberFest24_CTF/blob/main/Writeup/Whispers%20In%20The%20Wires.md) by [@h4cky0u](https://x.com/0xMarkUche)
 
 ### Blockchain 
-1.
+1. 
 
 ### RE
-1.
+1. [Sore](https://github.com/h4ckyou/AfricaCyberFest24_CTF/blob/main/Writeup/Sore.md) by [@h4cky0u](https://x.com/0xMarkUche)
+2. [Finding Nulock](https://github.com/h4ckyou/AfricaCyberFest24_CTF/blob/main/Writeup/FindingNulock.md) by [@h4cky0u](https://x.com/0xMarkUche)
 
 ### Cryptography
-1.
+1. [ByteOps](https://github.com/h4ckyou/AfricaCyberFest24_CTF/blob/main/Writeup/ByteOps.md) by [@h4cky0u](https://x.com/0xMarkUche)
 
 ### Misc
-1.
+1. [Hip Hip Hip](https://github.com/h4ckyou/AfricaCyberFest24_CTF/blob/main/Writeup/HipHipHip.md) by [@h4cky0u](https://x.com/0xMarkUche)
