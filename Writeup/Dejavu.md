@@ -5,7 +5,7 @@ The landing page of the webapp hints at a crypto website with the Connect Wallet
 
 ![Dejavu landing](../.assets/dejavu_2.png)
 
-Opening a wallet provider and connecting to the dapp reveals that it's a sepolia ethereum dapp. 
+Opening a wallet provider (Metamask) and connecting to the dapp reveals that it's a sepolia ethereum dapp. 
 
 Clicking `Buy Flag` reveals the user must own 1e20 Haxor token, which costs 200 ETH
 
@@ -67,7 +67,7 @@ contract Vault {
     }
 }
 ```
-A smart contract that allows wallets buy tokens (at a fixed 2Wei price), sell tokens, and join the lottery. 
+A smart contract that allows accounts buy tokens (at a fixed 2Wei price), sell tokens, and join the lottery. 
 
 The Important things to note from the code are:
 1. While the contract might seem vulnerable to an integer overflow attack via the unsafe multiplication in the buy function, it should be noted that for solidity 0.8.0 and above the [arithmetic operations revert on underflow and overflow](https://docs.soliditylang.org/en/v0.8.25/080-breaking-changes.html)
