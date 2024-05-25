@@ -43,9 +43,9 @@ contract Haxor {
     }
 ```
 The Important things to note from the code are:
-1. The \_TOKEN\_PRICE\_ variable is a uint8 and the userBalances mapping has a uint256 dict value type.
-2. The buy function uses unsafe maths to verify the amount being paid.  The unsafe multiplication will overflow back to 0 if its result is greater than 2^256. The user wallet controls one of the variables of the multiplication. 
-3. Every buy irreversibly increases the cost of each Haxor token by 1. The unsafe addition will overflow the uint8 TOKEN\_PRICE variable and reset it to 0 after 2^8 - 2(2 Wei is the starting price of haxor) 
+1. The `TOKEN_PRICE` variable is a `uint8` and the `userBalances` mapping has a uint256 dict value type.
+2. The `buy` function uses unsafe maths to verify the amount being paid.  The unsafe multiplication will overflow back to 0 if the result of `_tokenToBuy` \* `TOKEN_PRICE` is greater than 2^256. The user wallet controls one of the variables of the multiplication. 
+3. Every buy irreversibly increases the cost of each Haxor token by 1. The unsafe addition will overflow the `uint8` `TOKEN_PRICE` variable and reset it to 0 after 2^8 - 2(2 Wei is the starting price of haxor) 
 
 A simple script to interact with the contract
 
