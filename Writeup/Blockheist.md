@@ -11,7 +11,7 @@ The page's source code hints at it being EVM based with the use of ethersjs
 
 Opening a wallet provider and connecting to the dapp reveals that it's a sepolia ethereum dapp. 
 
-Clicking `buy` flag reveals the user must own 1e75 Haxor token, which costs 4.7e+59 ETH
+Clicking `Buy Flag` reveals the user must own 1e75 Haxor token, which costs 4.7e+59 ETH
 
 ![dapp](../.assets/blockheist_4.png)
 
@@ -49,7 +49,7 @@ The Important things to note from the code are:
 
 A simple script to interact with the contract
 
-```python3
+```python
 contract_abi = [] #Replace with contract ABI. Get from etherscan link
 from web3 import HTTPProvider, Web3
 
