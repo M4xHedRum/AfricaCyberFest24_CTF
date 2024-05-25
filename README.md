@@ -28,7 +28,7 @@ Update below list with appended writeups and user profile links. See example bel
 
 ### Blockchain 
 1. [Blockheist](https://github.com/M4xHedRum/AfricaCyberFest24_CTF/blob/main/Writeup/Blockheist.md) by [@kuro_lytes](https://twitter.com/kuro_lytes)
-2. [Dejavu](https://github.com/M4xHedRum/AfricaCyberFest24_CTF/blob/main/Dejavu/Blockheist.md)
+2. [Dejavu](https://github.com/M4xHedRum/AfricaCyberFest24_CTF/blob/main/Writeup/Dejavu.md) by [@kuro_lytes](https://twitter.com/kuro_lytes)
 
 ### RE
 1. [Sore](https://github.com/M4xHedRum/AfricaCyberFest24_CTF/blob/main/Writeup/Sore.md) by [@h4cky0u](https://x.com/0xMarkUche)
