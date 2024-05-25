@@ -27,7 +27,7 @@ Update below list with appended writeups and user profile links. See example bel
 3. [Invasion!]
 
 ### Blockchain 
-1. [Blockheist](https://github.com/M4xHedRum/AfricaCyberFest24_CTF/blob/main/Writeup/Blockheist.md)
+1. [Blockheist](https://github.com/M4xHedRum/AfricaCyberFest24_CTF/blob/main/Writeup/Blockheist.md) by [@kuro_lytes](https://twitter.com/kuro_lytes)
 2. [Dejavu](https://github.com/M4xHedRum/AfricaCyberFest24_CTF/blob/main/Dejavu/Blockheist.md)
 
 ### RE

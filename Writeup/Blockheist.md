@@ -1,23 +1,23 @@
 ### Blockheist
-![Blockheist CTFD](../..assets/blockheist_1.png)
+![Blockheist CTFD](../.assets/blockheist_1.png)
 
 The landing page of the webapp hints at a crypto website with the Connect Wallet button. 
 
-![Blockheist landing](../..assets/blockheist_2.png)
+![Blockheist landing](../.assets/blockheist_2.png)
 
 The page's source code hints at it being EVM based with the use of ethersjs
 
-![ethers js](../..assets/blockheist_3.png)
+![ethers js](../.assets/blockheist_3.png)
 
 Opening a wallet provider and connecting to the dapp reveals that it's a sepolia ethereum dapp. 
 
 Clicking `buy` flag reveals the user must own 1e75 Haxor token, which costs 4.7e+59 ETH
 
-![dapp](../..assets/blockheist_4.png)
+![dapp](../.assets/blockheist_4.png)
 
 Searching for a the EVM wallet address format reveals a contract address (ca).
 
-![devtools](../..assets/blockheist_5.png)
+![devtools](../.assets/blockheist_5.png)
 
 Checking the ca on [etherscan](https://sepolia.etherscan.io/address/0x2876ad7baf96864c992150ff16f909ab12440adb) reveals the contract source code.
 
@@ -93,4 +93,4 @@ print(w3.to_hex(txn_hash)) # Check hash manually
 
 With each run of the script, the user balance increases exponentially until the wallet can afford the flag
 
-![solution](../..assets/blockheist_6.png)
+![solution](../.assets/blockheist_6.png)
