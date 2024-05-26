@@ -25,7 +25,7 @@ Update below list with appended writeups and user profile links. See example bel
 ### Digital Forensics
 1. [Whispers in the Wires](https://github.com/M4xHedRum/AfricaCyberFest24_CTF/blob/main/Writeup/Whispers%20In%20The%20Wires.md) by [@h4cky0u](https://x.com/0xMarkUche)
 2. [Invasion!](https://github.com/M4xHedRum/AfricaCyberFest24_CTF/blob/main/Writeup/Invasion!.md) by [BlackAnon](https://x.com/BlackAnon22)
-3. [mem mem meme?]
+3. [mem mem meme?](https://github.com/BlackAnon22/AfricaCyberFest24_CTF/blob/main/Writeup/mem_mem_meme%3F.md) by [BlackAnon](https://x.com/BlackAnon22)
 
 ### Blockchain 
 1. [Blockheist](https://github.com/M4xHedRum/AfricaCyberFest24_CTF/blob/main/Writeup/Blockheist.md) by [@kuro_lytes](https://twitter.com/kuro_lytes)
