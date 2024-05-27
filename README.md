@@ -13,9 +13,10 @@ Update below list with appended writeups and user profile links. See example bel
 2. [Do you read](https://github.com/M4xHedRum/AfricaCyberFest24_CTF/blob/main/Writeup/do_you_read.md) by [BlackAnon](https://x.com/BlackAnon22)
 3. [Do you read 2](https://github.com/M4xHedRum/AfricaCyberFest24_CTF/blob/main/Writeup/do_you_read_2.md) by [BlackAnon](https://x.com/BlackAnon22)
 
-### Steganography
-1. [Plane Sight](https://github.com/M4xHedRum/AfricaCyberFest24_CTF/blob/main/Writeup/plane_sight.md) by [BlackAnon](https://x.com/BlackAnon22)
-2. [Plane Sight 2](https://github.com/M4xHedRum/AfricaCyberFest24_CTF/blob/main/Writeup/plane_sight_2.md) by [BlackAnon](https://x.com/BlackAnon22)
+
+### Steganography 
+1. [Plane Sight](https://github.com/LanZeroth/AfricaCyberFest24_CTF/blob/main/Writeup/Plane-Sight.md) by [abd_illahi](https://twitter.com/abd_illahi)
+2. [Plane Sight 2](https://github.com/LanZeroth/AfricaCyberFest24_CTF/blob/main/Writeup/Plane-Sight2.md) by [abd_illahi](https://twitter.com/abd_illahi)
 
 ### Web
 1. [Troll](https://github.com/M4xHedRum/AfricaCyberFest24_CTF/blob/main/Writeup/Troll.md) by [@h4cky0u](https://x.com/0xMarkUche)
@@ -23,9 +24,11 @@ Update below list with appended writeups and user profile links. See example bel
 3. [Daredevil](https://github.com/M4xHedRum/AfricaCyberFest24_CTF/blob/main/Writeup/Daredevil.md) by [@kuro_lytes](https://twitter.com/kuro_lytes)
 
 ### Digital Forensics
+
 1. [Whispers in the Wires](https://github.com/M4xHedRum/AfricaCyberFest24_CTF/blob/main/Writeup/Whispers%20In%20The%20Wires.md) by [@h4cky0u](https://x.com/0xMarkUche)
 2. [Invasion!](https://github.com/M4xHedRum/AfricaCyberFest24_CTF/blob/main/Writeup/Invasion!.md) by [BlackAnon](https://x.com/BlackAnon22)
 3. [mem mem meme?](https://github.com/M4xHedRum/AfricaCyberFest24_CTF/blob/main/Writeup/mem_mem_meme%3F.md) by [BlackAnon](https://x.com/BlackAnon22)
+
 
 ### Blockchain 
 1. [Blockheist](https://github.com/M4xHedRum/AfricaCyberFest24_CTF/blob/main/Writeup/Blockheist.md) by [@kuro_lytes](https://twitter.com/kuro_lytes)
@@ -36,8 +39,10 @@ Update below list with appended writeups and user profile links. See example bel
 2. [Finding Nulock](https://github.com/M4xHedRum/AfricaCyberFest24_CTF/blob/main/Writeup/FindingNulock.md) by [@h4cky0u](https://x.com/0xMarkUche)
 
 ### Cryptography
+
 1. [ByteOps](https://github.com/M4xHedRum/AfricaCyberFest24_CTF/blob/main/Writeup/ByteOps.md) by [@h4cky0u](https://x.com/0xMarkUche)
-2. [S1mple](https://github.com/M4xHedRum/AfricaCyberFest24_CTF/blob/main/Writeup/S1mple.md) by [BlackAnon](https://x.com/BlackAnon22)
+2. [S1mple](https://github.com/LanZeroth/AfricaCyberFest24_CTF/blob/main/Writeup/S1mple.md) by [abd_illahi](https://twitter.com/abd_illahi)
+
 
 ### Misc
 1. [Hip Hip Hip](https://github.com/M4xHedRum/AfricaCyberFest24_CTF/blob/main/Writeup/HipHipHip.md) by [@h4cky0u](https://x.com/0xMarkUche)
