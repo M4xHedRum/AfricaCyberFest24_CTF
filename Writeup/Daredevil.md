@@ -129,4 +129,4 @@ while True:
             print(admin_pass)
             break
 ```
-
+![flag](../.assets/daredevil_4.png)
