@@ -20,7 +20,7 @@ Update below list with appended writeups and user profile links. See example bel
 ### Web
 1. [Troll](https://github.com/M4xHedRum/AfricaCyberFest24_CTF/blob/main/Writeup/Troll.md) by [@h4cky0u](https://x.com/0xMarkUche)
 2. [Mystique](https://github.com/M4xHedRum/AfricaCyberFest24_CTF/blob/main/Writeup/mystique.md) by [BlackAnon](https://x.com/BlackAnon22)
-3. [Daredevil]
+3. [Daredevil](https://github.com/M4xHedRum/AfricaCyberFest24_CTF/blob/main/Writeup/Daredevil.md) by [@kuro_lytes](https://twitter.com/kuro_lytes)
 
 ### Digital Forensics
 1. [Whispers in the Wires](https://github.com/M4xHedRum/AfricaCyberFest24_CTF/blob/main/Writeup/Whispers%20In%20The%20Wires.md) by [@h4cky0u](https://x.com/0xMarkUche)
